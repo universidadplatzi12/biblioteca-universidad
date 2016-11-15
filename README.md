@@ -1,2 +1,15 @@
-# biblioteca-universidad
-es un proyecto dedicado para facilitar busqueda de materiale en la biblioteca 
+ biblioteca-universidad
+
+[descripción del proyecto]
+
+[instalación]
+- Requisitos 
+-versión 
+-Encargados del proyecto
+
+ [Uso]
+  [Documentación]
+ [Roadmap]
+ 
+[licensia]
+
